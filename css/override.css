@@ -1,0 +1,53 @@
+@font-face {
+    font-family: pacifico;
+    src: url("../fonts/pacifico.ttf");
+}
+.content { /* app background. */
+    background: #ff0000;
+}
+header {
+    background: #ff0000!important;
+}
+.card {
+    background: #ffffff;
+    border: 1px solid red!important;
+}
+h1 {
+    color:#ffffff!important;
+    font-family: pacifico;
+    font-size: 25px!important;
+}
+h3 {
+    text-align: center;
+}
+/*
+'Add to faves' button.
+*/
+.list li.fav:before {
+    content: 'Remove From ';
+}
+.list li.noFav:before {
+    content: 'Add To ';
+}
+
+/*
+ul padding fix.
+*/
+#faves ul {
+    padding-left: 0;
+}
+
+/*
+table alignment.
+*/
+td {
+    vertical-align: top;
+    padding-right: 5px;
+}
+
+/*
+li styling
+*/
+li {
+    list-style-type: none;
+}
