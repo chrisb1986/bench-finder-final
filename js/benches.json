@@ -1,0 +1,18 @@
+[
+  {"id":0, "benchLat":53.6435947, "benchLong":-1.78363680, "benchDesc":"Comfy bench on New Street in Huddersfield Town Centre.", "benchRating":"0.0.png", "benchImage":"bench-1.png"},
+  {"id":1, "benchLat":53.6433817, "benchLong":-1.78466945, "benchDesc":"Wooden bench on Albion street in Huddersfield Town Centre.", "benchRating":"0.5.png", "benchImage":"bench-2.png"},
+  {"id":2, "benchLat":53.6446473, "benchLong":-1.78441733, "benchDesc":"Decent bench near Sainsbury's supermarekt in huddersfield Town Centre.", "benchRating":"1.0.png", "benchImage":"bench-3.png"},
+  {"id":3, "benchLat":53.6468987, "benchLong":-1.78252905, "benchDesc":"Crowded bench on Westgate near Nando's in Huddersfield Town Centre.", "benchRating":"1.5.png", "benchImage":"bench-4.png"},
+  {"id":4, "benchLat":53.6476904, "benchLong":-1.78119599, "benchDesc":"Beautiful bench located within Huddersfield Parish Church.", "benchRating":"2.0.png", "benchImage":"bench-5.png"},
+  {"id":5, "benchLat":53.6424244, "benchLong":-1.78082048, "benchDesc":"Located on Queen Street just a stones throw away from the University.", "benchRating":"2.5.png", "benchImage":"bench-6.png"},
+  {"id":6, "benchLat":53.6438110, "benchLong":-1.77902877, "benchDesc":"Love students? Then you can be surrounded by them whilst sat on this bench at the Universities main entrance roundabout. If you don't love them then you can vent some anger at them instead.", "benchRating":"3.0.png", "benchImage":"bench-7.png"},
+  {"id":7, "benchLat":53.6458144, "benchLong":-1.78196847, "benchDesc":"Metal Bench on King St in Huddersfield Town Centre.", "benchRating":"3.5.png", "benchImage":"bench-8.png"},
+  {"id":8, "benchLat":53.6467747, "benchLong":-1.78424298, "benchDesc":"Metal bench on the Westgate Market St junction in Huddersfield Town Centre.", "benchRating":"4.0.png", "benchImage":"bench-9.png"},
+  {"id":9, "benchLat":53.6452420, "benchLong":-1.78604543, "benchDesc":"Bench located just outside the Huddersfield bus station. A great spot to see some of Huddersfields maniacs.", "benchRating":"4.5.png", "benchImage":"bench-10.png"},
+  {"id":10, "benchLat":53.5492579, "benchLong":-2.09756255, "benchDesc":"Bench around the corner.", "benchRating":"4.5.png", "benchImage":"bench-11.png"},
+  {"id":11, "benchLat":53.5493471, "benchLong":-2.10005164, "benchDesc":"Cromford Street bench.", "benchRating":"3.5.png", "benchImage":"bench-12.png"},
+  {"id":12, "benchLat":53.5479320, "benchLong":-2.09917187, "benchDesc":"Derker St bench.", "benchRating":"0.0.png", "benchImage":"bench-13.png"},
+  {"id":13, "benchLat":53.5540129, "benchLong":-2.09500908, "benchDesc":"Stoneleigh Park bench.", "benchRating":"4.0.png", "benchImage":"bench-14.png"},
+  {"id":14, "benchLat":53.5503032, "benchLong":-2.10084557, "benchDesc":"Yates' St roundabout bench.", "benchRating":"1.5.png", "benchImage":"bench-15.png"},
+  {"id":15, "benchLat":53.5538874, "benchLong":-2.09759299, "benchDesc":"Bench near me mams!", "benchRating":"5.0.png", "benchImage":"bench-16.png"}
+]
